@@ -1,4 +1,4 @@
-## Hola a todos / Hi everyone 👋
+![me](https://github.com/DiffelVIA/DiffelVIA/blob/main/header.png?raw=true)
 
 
 - ⚽ Soy docente universitario para los futuros maestros de educación física y entrenamiento físico, además, doy clases de conducción 🚗 en un negocio familiar.
@@ -9,4 +9,3 @@
 - 📫 Puedes contactarme mediante instagram, te dejo el link en mi perfil.
 - ⚡ Me encanta la actividad física, las matemáticas y el ingenio para resolver problemas.
 
-https://github.com/DiffelVIA/DiffelVIA/blob/main/header.png?raw=true
