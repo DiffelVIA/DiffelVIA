@@ -1,4 +1,6 @@
 ![me](https://github.com/DiffelVIA/DiffelVIA/blob/main/header.png)
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 - ⚽ Soy docente universitario para los futuros maestros de educación física y entrenamiento físico, además, doy clases de conducción 🚗 en un negocio familiar.
