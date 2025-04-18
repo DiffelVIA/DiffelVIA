@@ -11,3 +11,9 @@
 - 📫 Puedes contactarme mediante instagram, te dejo el link en mi perfil.
 - ⚡ Me encanta la actividad física, las matemáticas y el ingenio para resolver problemas.
 
+# 🛠 Lenguaje y herramientas 🖥
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
