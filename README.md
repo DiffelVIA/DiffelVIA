@@ -4,7 +4,6 @@
 
 
 - ⚽ Soy docente universitario para los futuros maestros de educación física y entrenamiento físico, además, doy clases de conducción 🚗 en un negocio familiar.
-- 📊 Soy emprendedor, he abierto varios negocios, actualmente estoy en el giro alimenticio vendiendo bebidas de tapioca 🥤.
 - 🌱 Actualmente soy desarrollador FullSatck en MODISA, desarrollo soluciones de software y datos para el área operativa.
 - 📉 Soy un entusiasta del aprendizaje y de la actualización continua.
 - 💬 Preguntame acerca de las otras actividades laborales que he desempeñado, aseguro que te sorpenderé.
